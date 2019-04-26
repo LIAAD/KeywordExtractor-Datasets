@@ -13,7 +13,6 @@ In summary, this repository has 20 datasets, with the following statistics:
 | [__500N-KPCrowd-v1.1__](#500)   | EN       | News            | Misc.         | 500   | 24459 (48.92)        | 408.33          | 13.5%          |
 | [__Inspec__](#Inspec)           | EN       | Abstract        | Comp. Science | 2000  | 29230 (14.62)        | 128.20          | 37.7%          |
 | [__Krapivin2009__](#Krapivin)   | EN       | Paper           | Comp. Science | 2304  | 14599 (6.34)         | 8040.74         | 15.3%          |
-<!--| [__KWTweet__](#KWTweet)         | EN       | Tweets          | Misc.         | 7736  | 31759 (4.12)         | 19.79           | 7.87%          |-->
 | [__Nguyen2007__](#Nguyen)       | EN       | Paper           | Comp. Science | 209   | 2369 (11.33)         | 5201.09         | 17.8%          |
 | [__PubMed__](#PubMed)           | EN       | Paper           | Comp. Science | 500   | 7620 (15.24)         | 3992.78         | 60.2%          |
 | [__Schutz2008__](#Schutz)       | EN       | Paper           | Comp. Science | 1231  | 55013 (44.69)        | 3901.31         | 13.6%          |
@@ -30,6 +29,8 @@ In summary, this repository has 20 datasets, with the following statistics:
 | [__wicc__](#wicc)               | ES       | Paper           | Comp. Science | 1640  | 7498 (4.57)          | 1955.56         | 2.7%           |
 | [__wiki20__](#wiki20)           | EN       | Research Report | Comp. Science | 20    | 730 (36.50)          | 6177.65         | 51.8%          |
 | [__www__](#www)                 | EN       | Paper           | Comp. Science | 1330  | 7711 (5.80)          | 84.08           | 55.0%          |
+
+<!--| [__KWTweet__](#KWTweet)         | EN       | Tweets          | Misc.         | 7736  | 31759 (4.12)         | 19.79           | 7.87%          |-->
 
 <br><br>
 
