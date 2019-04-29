@@ -7,28 +7,30 @@ If you know any more datasets, and want to contribute, please, notify me.
 
 In summary, this repository has 20 datasets, with the following statistics:
 
-| Dataset                         | Language | Type of Doc     | Domain        | #Docs | #Gold Keys (per doc) | #Tokens per doc | Absent GoldKey | 
-| ------------------------------- | -------- | --------------- | ------------- | ----- | -------------------- | --------------- | -------------- |
-| [__110-PT-BN-KP__](#110)        | PT       | News            | Misc.         | 110   | 2610 (23.73)         | 304.00          | 2.5%           |
-| [__500N-KPCrowd-v1.1__](#500)   | EN       | News            | Misc.         | 500   | 24459 (48.92)        | 408.33          | 13.5%          |
-| [__Inspec__](#Inspec)           | EN       | Abstract        | Comp. Science | 2000  | 29230 (14.62)        | 128.20          | 37.7%          |
-| [__Krapivin2009__](#Krapivin)   | EN       | Paper           | Comp. Science | 2304  | 14599 (6.34)         | 8040.74         | 15.3%          |
-| [__Nguyen2007__](#Nguyen)       | EN       | Paper           | Comp. Science | 209   | 2369 (11.33)         | 5201.09         | 17.8%          |
-| [__PubMed__](#PubMed)           | EN       | Paper           | Comp. Science | 500   | 7620 (15.24)         | 3992.78         | 60.2%          |
-| [__Schutz2008__](#Schutz)       | EN       | Paper           | Comp. Science | 1231  | 55013 (44.69)        | 3901.31         | 13.6%          |
-| [__SemEval2010__](#SemEval2010) | EN       | Paper           | Comp. Science | 243   | 4002 (16.47)         | 8332.34         | 11.3%          |
-| [__SemEval2017__](#SemEval2017) | EN       | Paragraph       | Misc.         | 493   | 8969 (18.19)         | 178.22          | 0.0%           |
-| [__WikiNews__](#WikiNews)            | FR       | News            | Misc.         | 100   | 1177 (11.77)         | 293.52          | 5.0%           |
-| [__cacic__](#cacic)             | ES       | Paper           | Comp. Science | 888   | 4282 (4.82)          | 3985.84         | 2.2%           |
-| [__citeulike180__](#citeulike)  | EN       | Paper           | Misc.         | 183   | 3370 (18.42)         | 4796.08         | 32.2%          |
-| [__fao30__](#fao30)             | EN       | Paper           | Agriculture   | 30    | 997 (33.23)          | 4777.70         | 41.7%          |
-| [__fao780__](#fao780)           | EN       | Paper           | Agriculture   | 779   | 6990 (8.97)          | 4971.79         | 36.1%          |
-| [__kdd__](#kdd)                 | EN       | Paper           | Comp. Science | 755   | 3831 (5.07)          | 75.97           | 53.2%          |
-| [__pak2018__](#pak)             | PL       | Abstract        | Misc.         | 50    | 232 (4.64)           | 97.36           | 64.7%          |
-| [__theses100__](#theses)        | EN       | Msc/Phd Thesis  | Misc.         | 100   | 767 (7.67)           | 4728.86         | 47.6%          |
-| [__wicc__](#wicc)               | ES       | Paper           | Comp. Science | 1640  | 7498 (4.57)          | 1955.56         | 2.7%           |
-| [__wiki20__](#wiki20)           | EN       | Research Report | Comp. Science | 20    | 730 (36.50)          | 6177.65         | 51.8%          |
-| [__www__](#www)                 | EN       | Paper           | Comp. Science | 1330  | 7711 (5.80)          | 84.08           | 55.0%          |
+| Dataset                         | Language | Type of Doc     | Domain        | #Docs  | #Gold Keys (per doc) | #Tokens per doc | Absent GoldKey | 
+| ------------------------------- | -------- | --------------- | ------------- | -----  | -------------------- | --------------- | -------------- |
+| [__110-PT-BN-KP__](#110)        | PT       | News            | Misc.         | 110    | 2610 (23.73)         | 304.00          | 2.5%           |
+| [__500N-KPCrowd-v1.1__](#500)   | EN       | News            | Misc.         | 500    | 24459 (48.92)        | 408.33          | 13.5%          |
+| [__Inspec__](#Inspec)           | EN       | Abstract        | Comp. Science | 2000   | 29230 (14.62)        | 128.20          | 37.7%          |
+| [__Krapivin2009__](#Krapivin)   | EN       | Paper           | Comp. Science | 2304   | 14599 (6.34)         | 8040.74         | 15.3%          |
+| [__KP20K__](#KP20K)             | EN       | Abstract        | Comp. Science | 570809 | 3017637 (5.28)       | xxxxxxx         | 44.3%          |
+| [__Nguyen2007__](#Nguyen)       | EN       | Paper           | Comp. Science | 209    | 2369 (11.33)         | 5201.09         | 17.8%          |
+| [__PubMed__](#PubMed)           | EN       | Paper           | Comp. Science | 500    | 7620 (15.24)         | 3992.78         | 60.2%          |
+| [__Schutz2008__](#Schutz)       | EN       | Paper           | Comp. Science | 1231   | 55013 (44.69)        | 3901.31         | 13.6%          |
+| [__SemEval2010__](#SemEval2010) | EN       | Paper           | Comp. Science | 243    | 4002 (16.47)         | 8332.34         | 11.3%          |
+| [__SemEval2017__](#SemEval2017) | EN       | Paragraph       | Misc.         | 493    | 8969 (18.19)         | 178.22          | 0.0%           |
+| [__WikiNews__](#WikiNews)       | FR       | News            | Misc.         | 100    | 1177 (11.77)         | 293.52          | 5.0%           |
+| [__cacic__](#cacic)             | ES       | Paper           | Comp. Science | 888    | 4282 (4.82)          | 3985.84         | 2.2%           |
+| [__citeulike180__](#citeulike)  | EN       | Paper           | Misc.         | 183    | 3370 (18.42)         | 4796.08         | 32.2%          |
+| [__fao30__](#fao30)             | EN       | Paper           | Agriculture   | 30     | 997 (33.23)          | 4777.70         | 41.7%          |
+| [__fao780__](#fao780)           | EN       | Paper           | Agriculture   | 779    | 6990 (8.97)          | 4971.79         | 36.1%          |
+| [__kdd__](#kdd)                 | EN       | Paper           | Comp. Science | 755    | 3831 (5.07)          | 75.97           | 53.2%          |
+| [__pak2018__](#pak)             | PL       | Abstract        | Misc.         | 50     | 232 (4.64)           | 97.36           | 64.7%          |
+| [__persaD__](#persaD)           | FA       | XXXXXXXX        | XXXXX         | 553111 | 2041626 (3.69)       | xxxxx           | 30.5%          |
+| [__theses100__](#theses)        | EN       | Msc/Phd Thesis  | Misc.         | 100    | 767 (7.67)           | 4728.86         | 47.6%          |
+| [__wicc__](#wicc)               | ES       | Paper           | Comp. Science | 1640   | 7498 (4.57)          | 1955.56         | 2.7%           |
+| [__wiki20__](#wiki20)           | EN       | Research Report | Comp. Science | 20     | 730 (36.50)          | 6177.65         | 51.8%          |
+| [__www__](#www)                 | EN       | Paper           | Comp. Science | 1330   | 7711 (5.80)          | 84.08           | 55.0%          |
 
 <!--| [__KWTweet__](#KWTweet)         | EN       | Tweets          | Misc.         | 7736  | 31759 (4.12)         | 19.79           | 7.87%          |-->
 
