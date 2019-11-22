@@ -13,7 +13,6 @@ In summary, this repository has 20 datasets, with the following statistics:
 | [__500N-KPCrowd-v1.1__](#500)   | EN       | News            | Misc.         | 500    | 24459 (48.92)        | 408.33          | 13.5%          |
 | [__Inspec__](#Inspec)           | EN       | Abstract        | Comp. Science | 2000   | 29230 (14.62)        | 128.20          | 37.7%          |
 | [__Krapivin2009__](#Krapivin)   | EN       | Paper           | Comp. Science | 2304   | 14599 (6.34)         | 8040.74         | 15.3%          |
-| [__KP20K__](#KDD)             | EN       | Abstract        | Comp. Science | 570809 | 3017637 (5.28)       | xxxxxxx         | 44.3%          |
 | [__Nguyen2007__](#Nguyen)       | EN       | Paper           | Comp. Science | 209    | 2369 (11.33)         | 5201.09         | 17.8%          |
 | [__PubMed__](#PubMed)           | EN       | Paper           | Comp. Science | 500    | 7620 (15.24)         | 3992.78         | 60.2%          |
 | [__Schutz2008__](#Schutz)       | EN       | Paper           | Comp. Science | 1231   | 55013 (44.69)        | 3901.31         | 13.6%          |
