@@ -34,6 +34,8 @@ In summary, this repository has 20 datasets, with the following statistics:
 
 <br><br>
 
+Following are the datasets and the original papers which proposed them.
+
 <a name="110"></a>
 ### 110-PT-BN-KP
 
@@ -159,7 +161,7 @@ In summary, this repository has 20 datasets, with the following statistics:
 
 **Dateset**: [pak2018](datasets/pak2018.zip)
 
-**Cite**: [[OUR]](DOI)
+**Cite**: [YAKE! Keyword Extraction from Single Documents using Multiple Local Features](https://www.sciencedirect.com/science/article/pii/S0020025519308588?via%3Dihub)
 
 **Description**: pak2018 is a dataset in Polish formed by 50 abstracts of journals on technical topics collected from [Measurement Automation and Monitoring](http://pak.info.pl/) (in Polish “Pomiary, Automatyka, Kontrola”). The gold keywords are those author-assigned, resulting in 2-6 keywords per document.
 
@@ -170,7 +172,7 @@ In summary, this repository has 20 datasets, with the following statistics:
 
 **Dateset**: [PubMed](datasets/PubMed.zip)
 
-**Cite**: [???](DOI)
+**Cite**: [The NLM Indexing Initiative](https://pubmed.ncbi.nlm.nih.gov/11079836/)
 
 **Description**: PubMed dataset is based on full-text papers collected from PubMed Central, which comprises over 26 million citations for biomedical literature from MEDLINE, life science journals, and online books. It consists of 500 papers selected from the same source. PubMed uses the Medical Subject Headings [MeSH](https://www.ncbi.nlm.nih.gov/mesh), a controlled vocabulary thesaurus used for indexing articles for PubMed, as the gold keywords to the documents.
 
@@ -215,7 +217,7 @@ Journal of Urology. These keywords assigned by the authors are hidden in the art
 
 **Dateset**: [theses100](datasets/theses100.zip)
 
-**Cite**: [???](DOI)
+**Cite**: [Originally downloaded from zelandiya github account](https://github.com/zelandiya/keyword-extraction-datasets/blob/ba4966ccceafb1c159cdc42f8e8dc630eff126d4/theses100.zip)
 
 **Description**: The theses100 dataset consists of 100 full master and Ph.D. theses from the University of Waikato, New Zeland. The domain of the theses made available is quite different ranging from chemistry, computer science, economics to psychology, philosophy, history, and others.
 
@@ -248,7 +250,7 @@ Journal of Urology. These keywords assigned by the authors are hidden in the art
 
 **Dateset**: [WikiNews](datasets/WikiNews.zip)
 
-**Cite**: [???](DOI)
+**Cite**: [TopicRank: Graph-Based Topic Ranking for Keyphrase Extraction](https://www.aclweb.org/anthology/I13-1062.pdf)
 
 **Description**: WikiNews is a French corpus created from the French version of WikiNews that contains 100 news articles published between May 2012 and December 2012 and manually annotated by at least three students.
 
