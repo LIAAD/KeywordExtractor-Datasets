@@ -1,11 +1,8 @@
 Datasets of Automatic Keyphrase Extraction
 ============================================
 
-This repository contains annotated datasets of Automatic Keyphrase Extraction.
+This repository contains 20 annotated datasets of Automatic Keyphrase Extraction made available by the research community. Following are the datasets and the original papers that proposed them. If you know more datasets, and want to contribute, please, notify me. You might also want to have a look at [Florian Boudin](https://github.com/boudinfl/ake-datasets) keyphrase extraction repository.
 
-If you know any more datasets, and want to contribute, please, notify me.
-
-In summary, this repository has 20 datasets, with the following statistics:
 
 | Dataset                         | Language | Type of Doc     | Domain        | #Docs  | #Gold Keys (per doc) | #Tokens per doc | Absent GoldKey | 
 | ------------------------------- | -------- | --------------- | ------------- | -----  | -------------------- | --------------- | -------------- |
@@ -33,8 +30,6 @@ In summary, this repository has 20 datasets, with the following statistics:
 <!--| [__KWTweet__](#KWTweet)         | EN       | Tweets          | Misc.         | 7736  | 31759 (4.12)         | 19.79           | 7.87%          |-->
 
 <br><br>
-
-Following are the datasets and the original papers which proposed them.
 
 <a name="110"></a>
 ### 110-PT-BN-KP
